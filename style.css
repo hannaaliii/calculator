@@ -1,0 +1,17 @@
+.myFont2{
+    color: green;
+}
+
+.myborder{
+    border: solid 5px blue;
+}
+
+.myMargin{
+    margin: 5px;
+}
+body#bodyid{
+    background-color: rgb(23, 66, 66);
+}
+.col-md-4{
+    background-color: rgb(99, 185, 28);
+}
